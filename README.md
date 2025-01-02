@@ -1,6 +1,7 @@
 Data transformation and cleaning with Power BI
 
 INTRODUCTION
+
 This dashboard provides an overview of a survey conducted among 630 data professionals with an average age of 30, offering insights into their demographics, salaries, programming language preferences, and work satisfactory level. The goal of this project is to clean the data, transform it, visualize and focus on key metrics and insights.
 
 VISUALIZATION & KEY INSIGHTS
@@ -14,6 +15,7 @@ VISUALIZATION & KEY INSIGHTS
 
 
 CONCLUSION
+
 Based on this dataset, I can deduce that data professionals are integral to today's tech-driven world, thriving in diverse roles, and using cutting-edge tools like Python, R, C++ among others. However, challenges such as salary satisfaction and work-life balance persist, highlighting areas for companies to improve employee well-being and retention.
 By addressing these challenges, organizations can not only attract but also nurture top talent, ensuring the continued growth and innovation of the data profession.
 
