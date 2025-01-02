@@ -17,5 +17,7 @@ CONCLUSION
 Based on this dataset, it can be deduced that data professionals are integral to today's tech-driven world, thriving in diverse roles, and using cutting-edge tools like Python, R, and C++ among others. However, challenges such as salary satisfaction and work-life balance persist, highlighting areas for companies to improve employee well-being and retention. By addressing these challenges, organizations can not only attract but also nurture top talent, ensuring the continued growth and innovation of the data profession.
 
 
-NOTE: All insights presented are derived from the data and are not necessarily definitive. Additional research is encouraged for further clarification. Insights from each query are documented as comments directly above the respective code in the “Mental_health_impact.sql” file. The raw dataset is also attached as a ".xlsx" file if you want to practice and explore the data further. Please feel free to share suggestions and constructive feedback.
+NOTE: The raw dataset, titled "Data Professional Survey.xlsx," is included for those who wish to practice and explore the data further. Additionally, the Power BI solution file is provided for reference. Please feel free to share any suggestions or constructive feedback.
+
+
 
